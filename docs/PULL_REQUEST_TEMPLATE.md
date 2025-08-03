@@ -1,5 +1,5 @@
 ## Tipo de usuario
-- [ ] Alfa
+- [x] Alfa
 - [ ] Bravo
 - [ ] Charlie
 - [ ] Delta
@@ -10,10 +10,10 @@
 - [ ] Json
 - [ ] Archivo plano (.txt)
 - [ ] Javascript
-- [ ] Markdown / .md
+- [x] Markdown / .md
 
 ## Seleccione el tipo de actividad
-- [ ] Feature
+- [x] Feature
 - [ ] Changes
 - [ ] Hotfix
 - [ ] Refactor
